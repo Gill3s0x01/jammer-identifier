@@ -1,5 +1,5 @@
 <!-- ![Jammer-Identifier](public/assets/logo.png) -->
-<img src="./public/assets/logo.png" alt="Hardware" width="400" style="display: block; margin: 0 auto;">
+<img src="./public/assets/logo.png" alt="Hardware" width="400" style="display: block; text-align: center; margin: 0 auto;">
 
 # Jammer-Identifier
 
